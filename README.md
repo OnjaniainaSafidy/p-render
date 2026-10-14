@@ -14,6 +14,15 @@ Here is a preview of the server monitoring dashboard:
 ### Server Statistics
 
 ![Server Statistics](screenshots/ServerMonitoring.png)
+
+## 🚀 Live Demo
+
+**Access the deployed application:** [Open Server Monitoring Dashboard](https://p-render.onrender.com/)
+
+- **Dashboard:** https://p-render.onrender.com/
+- **Health Check:** https://p-render.onrender.com/health
+- **Server Statistics:** https://p-render.onrender.com/stats
+
 ## Features
 
 - **Interactive Dashboard:** Displays server statistics through a clean HTML interface.
