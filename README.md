@@ -7,8 +7,13 @@ It provides real-time information about server health, memory usage, CPU activit
 
 Here is a preview of the server monitoring dashboard:
 
-![Server Monitoring Dashboard](screenshots/dashboard.png)
+### Server Monitoring Dashboard
 
+![Server Monitoring Dashboard](screenshots/Moitonring.png)
+
+### Server Statistics
+
+![Server Statistics](screenshots/ServerMonitoring.png)
 ## Features
 
 - **Interactive Dashboard:** Displays server statistics through a clean HTML interface.
