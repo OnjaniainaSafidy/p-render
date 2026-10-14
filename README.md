@@ -3,18 +3,6 @@
 A lightweight server monitoring application built with Node.js and Express.js.
 It provides real-time information about server health, memory usage, CPU activity, and disk storage through a web dashboard and JSON API endpoints.
 
-## Dashboard Preview
-
-Here is a preview of the server monitoring dashboard:
-
-### Server Monitoring Dashboard
-
-![Server Monitoring Dashboard](screenshots/Moitonring.png)
-
-### Server Statistics
-
-![Server Statistics](screenshots/ServerMonitoring.png)
-
 ## 🚀 Live Demo
 
 **Access the deployed application:** [Open Server Monitoring Dashboard](https://p-render.onrender.com/)
